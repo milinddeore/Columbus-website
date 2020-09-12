@@ -4,7 +4,7 @@ permalink: /team/
 title: "TEAM"
 header:
   overlay_color: "#000"
-  overlay_filter: "0.5"
+  overlay_filter: "0.1"
   overlay_image: /assets/images/background-map.png
 excerpt: "Our team"
 
