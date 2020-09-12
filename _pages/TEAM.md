@@ -5,7 +5,7 @@ title: "TEAM"
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/photo-1501820434261-5bb046afcf6b.jpeg
+  overlay_image: /assets/images/background-map.png
 excerpt: "Our team"
 
 ---
@@ -57,26 +57,4 @@ Milind has 20 years of work experience: As a platform engineer with companies li
   </ul>
 </div>
 
----
-
-![Ashimroy](/assets/images/ashimroy.JPG)
-### Ashim Roy
-
-*Advisor*
-
-Ashim’s technology journey has crisscrossed countries and continents and he brings diversity and depth of 30+ years of experience to his role of co-founder and CEO of Cardiotrack. Ashim did his BE in Electronics and Electrical Engineering from BITS, Pilani; Masters from IIT, Delhi and PhD from the University of Adelaide. He has spent about 24 years in the telecom world most of it in the US and holds several patents. He has been an adjunct professor at Catholic University, Washington DC.
-
-Ashim revels in the challenges and highs of the start-up world and is a fierce proponent of technology that benefits the under-served masses.
-
-<div class="page__footer-follow">
-  <ul class="social-icons">
-    {% if site.ashimroy.links %}
-      {% for link in site.ashimroy.links %}
-        {% if link.label and link.url %}
-          <li><a href="{{ link.url }}" rel="nofollow noopener noreferrer"><i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i> {{ link.label }}</a></li>
-        {% endif %}
-      {% endfor %}
-    {% endif %}
-  </ul>
-</div>
 ---
