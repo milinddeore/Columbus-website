@@ -4,17 +4,16 @@ title: "ABOUT"
 permalink: /about/
 header:
   overlay_color: "#000"
-  overlay_filter: "0.5"
+  overlay_filter: "0.1"
   overlay_image: /assets/images/background-map.png
 excerpt: "Who we are?"
 ---
 
 <br/>
 <br/>
-*What is required is a safe, secured and yet simple biometric solution. Logits system's face authentication brings many advantages over traditional fingerprint or iris biometrics. Logits systems biometric offers fast, highly accurate, easy to use, runs on user devices which means no cloud computing is required and many more. Data protection is a new threat to the modern world.* 
+Love to Travel ? :airplane:
+Do not have time for research ? :mag_right:
+Let our BOT backed by AI help you save Time :hourglass: + Money :moneybag:.
 
 ---
 
-**Face biometric with weak liveness can cause intruders to get them in as impostors. We have given strong emphasis on liveness detection along with anomaly algorithms to make it unbreakable, that inherently solves fake user registration.**
-
----
